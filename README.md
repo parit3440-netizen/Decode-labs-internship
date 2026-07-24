@@ -1,7 +1,7 @@
 # Decode-labs-internship
 ### Hi there 👋 I'm Paree rani talreja 
 
-Python Developer Intern @ Decode Labs | Aspiring Software Engineer
+Python Developer Intern @ Decode Labs | Aspiring AI engineer 
 
 ## 🔥 About Me
 - 🔭 I’m currently working on: Python projects during Decode Labs Internship
